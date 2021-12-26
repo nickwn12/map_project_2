@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c84b1eed-f5cb-4c35-bff1-4cd0215f244d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/US_Minimum_Wage/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/US_Minimum_Wage/.idea/US_Minimum_Wage.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/US_Minimum_Wage/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/US_Minimum_Wage/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/US_Minimum_Wage/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/US_Minimum_Wage/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/US_Minimum_Wage/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Merge_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Merge_data.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/US_Minimum_Wage" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">

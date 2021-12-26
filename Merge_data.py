@@ -26,5 +26,5 @@ fig = px.choropleth(merged_us_regions_df,
                     )
 
 
-
-fig.show()
+pio.write_html(fig, file='index.html', auto_open=True)
+# fig.show()
