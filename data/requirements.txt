@@ -1,0 +1,15 @@
+numpy
+selenium
+pandas
+tabulate
+selenium
+flat_table
+flatten_json
+matplotlib
+sklearn
+xgboost
+pydot
+tensorflow
+statsmodels
+plotly
+cufflinks
