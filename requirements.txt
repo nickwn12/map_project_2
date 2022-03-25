@@ -9,7 +9,7 @@ matplotlib
 sklearn
 xgboost
 pydot
-tensorflow
 statsmodels
 plotly
 cufflinks
+chart_studio
